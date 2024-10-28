@@ -1,11 +1,9 @@
-/* General body styling */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
 }
 
-/* Header styling */
 .header {
     background-color: #4CAF50;
     padding: 20px;
@@ -27,7 +25,6 @@ body {
     text-decoration: underline;
 }
 
-/* About section styling */
 .about {
     padding: 20px;
     background-color: white;
@@ -41,7 +38,6 @@ body {
     color: #333;
 }
 
-/* Team section styling */
 .team {
     padding: 20px;
     background-color: white;
@@ -72,7 +68,6 @@ body {
     font-weight: bold;
 }
 
-/* Footer styling */
 .footer {
     background-color: #4CAF50;
     color: white;
